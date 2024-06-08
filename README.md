@@ -1,5 +1,11 @@
-# Satellite Electrical System Design
-NTHU Course - Satellite Electrical System Design 
+# Mars Rover Simulation
+
+## Functions 
+
+- Ultrasonic sensor for autonomous movement
+- Manual remote control
+- Manual/automatic dual-axis solar panel tracking for charging
+- Temperature and humidity sensing
 
 ## Project Overview
 
