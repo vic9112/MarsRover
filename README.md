@@ -1,4 +1,4 @@
-# SatelliteElectricalSystemDesign
+# Satellite Electrical System Design
 NTHU Course - Satellite Electrical System Design 
 
 ## Project Overview
