@@ -1,4 +1,4 @@
-# Mars Rover Simulation
+# Arduino Mars Rover
 
 ## Functions 
 
