@@ -1,3 +1,7 @@
+/* 
+Project link:
+https://github.com/vic9112/MarsRover/ 
+*/
 // Servo motor library
 #include <Servo.h>
 // Initialize variables
