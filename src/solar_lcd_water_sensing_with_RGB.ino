@@ -1,3 +1,7 @@
+/* 
+Project link:
+https://github.com/vic9112/MarsRover/ 
+*/
 #include <LiquidCrystal_I2C.h>
 #define R 8
 #define G 9
