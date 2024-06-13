@@ -2,10 +2,12 @@
 
 ## Functions 
 
-- Ultrasonic sensor for autonomous movement
 - Manual remote control
 - Manual/automatic dual-axis solar panel tracking for charging
 - Temperature and humidity sensing
+- RGB Intensity Sensing
+- Bluetooth Controlled Rover with Ultrasonic Sensor Self-Driving
+- Water Sensing Module with RGB LED Indicator
 
 ## Project Overview
 
